@@ -36,3 +36,4 @@ def model(input_tensor):
 
         tensor = tf.add(tensor, input_tensor)
         return tensor, weights
+
